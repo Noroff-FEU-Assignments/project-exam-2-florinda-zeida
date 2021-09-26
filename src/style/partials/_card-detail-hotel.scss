@@ -1,0 +1,29 @@
+.accommodation_card_detail{
+  max-width: 700px;
+  margin: 0px auto;
+}
+
+.flex_column{
+  display: flex;
+  flex-direction: column;
+}
+
+.card_detail_flex{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.accommodation_title_flex{
+  align-items: flex-start;
+}
+
+.accommodation_flex{
+  display: flex;
+  flex-direction: column;
+}
+
+.accommodation_sub-title{
+  color: $colour-primary_dark;
+  font-weight: 400;
+}
